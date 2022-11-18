@@ -7,7 +7,7 @@ Project:
  Copyright: ''
  FormatVersion: 1
  ProductVersion: 1.0
- CoreVersion: 1.0
+ CoreVersion: 0.9
  EncryptionVersion: 1
  EncryptionMode: Secrets
  Dependencies:
